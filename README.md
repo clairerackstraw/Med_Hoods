@@ -6,4 +6,5 @@ Our Team includes
 * Alvaro (Project Leader)
 * Claire (UI Designer/Nurse)
 * Arthur (Entrepreneur)
+* Xenia
 * Gaurav (Data Scientist/Developer)
