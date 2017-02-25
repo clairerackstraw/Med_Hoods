@@ -1,1 +1,112 @@
 ID,Doctor Name,Date,Start Time,End Time
+1,Katja Mei_ner,3/1/17,8:00,8:30
+2,Nicolette Juche,3/2/17,9:00,9:30
+3,Margarita Sanchez Garcia,3/3/17,10:00,10:30
+4,BrigitteTessnow,3/4/17,11:00,11:30
+5,Jens Kretlow,3/5/17,12:00,12:30
+6,Iris Bakki,3/6/17,13:00,13:30
+7,Uwe H_dicke,3/7/17,14:00,14:30
+8,Christian Bohle,3/8/17,15:00,15:30
+9,Melanie Aalburg,3/9/17,16:00,16:30
+10,Fatma Aslan-Äzdemir,3/10/17,17:00,17:30
+11,Manfred Lapp,3/11/17,18:00,18:30
+12,Margarete Falbe,3/12/17,8:00,8:30
+13,Olaf Meyer,3/13/17,9:00,9:30
+14,Mahmoud Pakzad,3/14/17,10:00,10:30
+15,Bernd-Michael Wobbe,3/15/17,11:00,11:30
+16,Wolfgang Conzelmann,3/16/17,12:00,12:30
+17,Ahmad Ali Issavand,3/17/17,13:00,13:30
+18,Kai R_ttger,3/18/17,14:00,14:30
+19,J™rgen Wismach,3/19/17,15:00,15:30
+20,Rahman Ahmed,3/20/17,16:00,16:30
+21,Manuel Kretzschmar,3/21/17,17:00,17:30
+22,Andreas Schief,3/22/17,18:00,18:30
+23,Marcus Fischdick,3/23/17,8:00,8:30
+24,Bettina Schulz,3/24/17,9:00,9:30
+25,Maria Link,3/25/17,10:00,10:30
+26,Martina Seidler,3/26/17,11:00,11:30
+27,Erich Freisleben,3/27/17,12:00,12:30
+28,Sabine Pricelius,3/28/17,13:00,13:30
+29,J™rgen Gadow,3/29/17,14:00,14:30
+30,Gerhard Hagner,3/30/17,15:00,15:30
+31,Caroline Neubert,3/31/17,16:00,16:30
+32,Hans-Thomas Dress,4/1/17,17:00,17:30
+33,Regina Busch,4/2/17,18:00,18:30
+34,Christina von Mickwitz,4/3/17,8:00,8:30
+35,Soja Pfau-Farschid,4/4/17,9:00,9:30
+36,Christoph Dickert,4/5/17,10:00,10:30
+37,Brigitta Reinsch,4/6/17,11:00,11:30
+38,R. Bohm,4/7/17,12:00,12:30
+39,Dieter-Hagen Mahlo,4/8/17,13:00,13:30
+40,Peter Thomas Fennel,4/9/17,14:00,14:30
+41,Martin Meinke,4/10/17,15:00,15:30
+42,Rainer Hoffmann,4/11/17,16:00,16:30
+43,G™nter Knefel,4/12/17,17:00,17:30
+44,Jens Meyer,4/13/17,18:00,18:30
+45,Keno Wolbergs,4/14/17,8:00,8:30
+46,Martina Rosenh_fer,4/15/17,9:00,9:30
+47,Halil Ibrahim Bulat,4/16/17,10:00,10:30
+48,Rainer Ko_mann,4/17/17,11:00,11:30
+49,Gerrit Hofrichter,4/18/17,12:00,12:30
+50,L. Regitz-Jedermann,4/19/17,13:00,13:30
+51,J_rg Jessa,4/20/17,14:00,14:30
+1,Katja Mei_ner,3/1/17,8:30,9:00
+2,Nicolette Juche,3/2/17,9:30,10:00
+3,Margarita Sanchez Garcia,3/3/17,10:30,11:00
+4,BrigitteTessnow,3/4/17,11:30,12:00
+5,Jens Kretlow,3/5/17,12:30,13:00
+6,Iris Bakki,3/6/17,13:30,14:00
+7,Uwe H_dicke,3/7/17,14:30,15:00
+8,Christian Bohle,3/8/17,15:30,16:00
+9,Melanie Aalburg,3/9/17,16:30,17:00
+10,Fatma Aslan-Äzdemir,3/10/17,17:30,18:00
+11,Manfred Lapp,3/11/17,8:30,9:00
+12,Margarete Falbe,3/12/17,9:30,10:00
+13,Olaf Meyer,3/13/17,10:30,11:00
+14,Mahmoud Pakzad,3/14/17,11:30,12:00
+15,Bernd-Michael Wobbe,3/15/17,12:30,13:00
+16,Wolfgang Conzelmann,3/16/17,13:30,14:00
+17,Ahmad Ali Issavand,3/17/17,14:30,15:00
+18,Kai R_ttger,3/18/17,15:30,16:00
+19,J™rgen Wismach,3/19/17,16:30,17:00
+20,Rahman Ahmed,3/20/17,17:30,18:00
+21,Manuel Kretzschmar,3/21/17,8:30,9:00
+22,Andreas Schief,3/22/17,9:30,10:00
+23,Marcus Fischdick,3/23/17,10:30,11:00
+24,Bettina Schulz,3/24/17,11:30,12:00
+25,Maria Link,3/25/17,12:30,13:00
+26,Martina Seidler,3/26/17,13:30,14:00
+27,Erich Freisleben,3/27/17,14:30,15:00
+28,Sabine Pricelius,3/28/17,15:30,16:00
+29,J™rgen Gadow,3/29/17,16:30,17:00
+30,Gerhard Hagner,3/30/17,17:30,18:00
+31,Caroline Neubert,3/31/17,8:30,9:00
+32,Hans-Thomas Dress,4/1/17,9:30,10:00
+33,Regina Busch,4/2/17,10:30,11:00
+34,Christina von Mickwitz,4/3/17,11:30,12:00
+35,Soja Pfau-Farschid,4/4/17,12:30,13:00
+36,Christoph Dickert,4/5/17,13:30,14:00
+37,Brigitta Reinsch,4/6/17,14:30,15:00
+38,R. Bohm,4/7/17,15:30,16:00
+39,Dieter-Hagen Mahlo,4/8/17,16:30,17:00
+40,Peter Thomas Fennel,4/9/17,17:30,18:00
+41,Martin Meinke,4/10/17,8:30,9:00
+42,Rainer Hoffmann,4/11/17,9:30,10:00
+43,G™nter Knefel,4/12/17,10:30,11:00
+44,Jens Meyer,4/13/17,11:30,12:00
+45,Keno Wolbergs,4/14/17,12:30,13:00
+46,Martina Rosenh_fer,4/15/17,13:30,14:00
+47,Halil Ibrahim Bulat,4/16/17,14:30,15:00
+48,Rainer Ko_mann,4/17/17,15:30,16:00
+49,Gerrit Hofrichter,4/18/17,16:30,17:00
+50,L. Regitz-Jedermann,4/19/17,17:30,18:00
+51,J_rg Jessa,4/20/17,8:30,9:00
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
